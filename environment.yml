@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - bokeh=1.1.0=py37_0
-  - matplotlib=3.0.3=py37_1
-  - notebook=5.7.8=py37_0
-  - numpy=1.16.3=py37hdf140aa_0
-  - python=3.7.3=h0d93f26_0
-  - rasterio=1.0.22=py37h437083a_1
-  - scipy=1.2.1=py37hbd7caa9_1
+  - bokeh=1.1.0
+  - matplotlib=3.0.3
+  - notebook=5.7.8
+  - numpy=1.16.3
+  - python=3.7.3
+  - rasterio=1.0.22
+  - scipy=1.2.1
